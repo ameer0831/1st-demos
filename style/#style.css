@@ -1,0 +1,53 @@
+*{
+
+}
+#main{
+    width: 1000px;
+    height: 50;
+    background-color: white;
+}
+#container{
+    width: 1000px;
+    height:500px ;
+    border-color: black;
+    float: right;
+}
+#home{
+    margin-bottom: -10px;
+    margin-right: -50px;
+}
+
+.ad43{
+  display: flex;
+}
+nav {
+    display: inline-flex;
+    justify-content:space-between ;
+}
+nav{
+    padding: 0px;
+    margin-right: 200px;
+}
+ .B{
+    display:flex;
+    margin-right: 300px;
+ }
+ #form{
+    margin: 10px;
+    padding:10px;
+    height: 400px;
+    width: 400px;
+}
+.A{
+    margin: 10px;
+    padding: 50px;
+    margin-right:200px;
+    background-color: blue;
+}
+#cantainer2{
+    float:right
+}
+h2{
+    color: blue;
+    float: right;
+}
